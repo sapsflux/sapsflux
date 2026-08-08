@@ -13,11 +13,6 @@
  </div>
 
 <img src="https://files.catbox.moe/h21wjb.jpeg" width="350">
-<div>
-  
-</div>
-
-<img src="https://pbs.twimg.com/media/HAosm2qacAAeyMc?format=jpg&name=large" width="350">
 
 <img src="https://pbs.twimg.com/media/HAP406sacAAwgqa?format=jpg&name=large" width="250">
 
