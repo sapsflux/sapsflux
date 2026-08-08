@@ -20,8 +20,4 @@ i'm not a c+h guy and i'm not inclined to talk to you if you don't whisper but i
 
 don't copy or colorpick my skins
 
-<img src="https://pbs.twimg.com/media/HAtSILOaEAA2Bz5?format=jpg&name=medium" width="250">
-
-i'm gonna jkill taimc
-
 cred: ayoingko insectlover001
