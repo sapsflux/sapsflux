@@ -16,6 +16,8 @@
 
 <img src="https://pbs.twimg.com/media/HAP406sacAAwgqa?format=jpg&name=large" width="250">
 
+i know this readme isn't very cute i swear i'll fix it at some point
+
 i'm not a c+h guy and i'm not inclined to talk to you if you don't whisper but i'm nice and i don't bite I Promise!! I love making friends!! Talk to me In a whisper!!
 
 don't copy or colorpick my skins
