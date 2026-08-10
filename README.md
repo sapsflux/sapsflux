@@ -1,6 +1,5 @@
 <div align="center">
-  
-![](https://komarev.com/ghpvc/?username=ververmillion&label=hello&style=flat-plastic&color=grey)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Narrow&size=15&duration=2000&pause=200&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=case+closed;this+is+how+your+justice+ends)](https://git.io/typing-svg)
 
