@@ -2,14 +2,8 @@
   
 ![](https://komarev.com/ghpvc/?username=ververmillion&label=hello&style=flat-plastic&color=grey)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Narrow&size=15&duration=2000&pause=400&color=FFFFFF&multiline=true&width=280&lines=cased+closed;this+is+how+your+justice+ends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Narrow&size=15&duration=2000&pause=200&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=case+closed;this+is+how+your+justice+ends)](https://git.io/typing-svg)
 
-  </a>
-</p>
- <div>
-   
- </div>
-
+<img src="https://64.media.tumblr.com/5e6dcc3d99d047f7457c4713e45a12de/e4eccd3b03350099-51/s500x750/408ba0a5cb6d9567205ba7aebf5783b6182a766e.pnj" width="330">
+<div></div>
 <img src="https://files.catbox.moe/sbet1z.png" width="330">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tgj75yyxfu7fkxkhyrfov34y3u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
